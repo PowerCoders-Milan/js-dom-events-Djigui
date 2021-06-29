@@ -24,7 +24,7 @@ list.insertAdjacentHTML('beforeend', 'td');
 //       Make the function summarizePoints() return it
 const summarizePoints = () => {
   // TODO: return the sum
-  return th;
+  return summarizePoints.tr;
 };
 
 
